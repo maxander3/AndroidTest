@@ -70,13 +70,10 @@
     "editedAt": 1801234567
   },
   {
-    "id": "11",
     "model": "Аккумуляторный снегоуборщик EGO SNT2100",
     "description": "Экологичный снегоуборщик на аккумуляторе",
-    "features": "Аккумулятор: 56V\nШирина захвата: 51 см\nВыброс снега: 8 м\nВес: 45 кг\nВремя работы: до 45 мин\nЗарядка: 1.5 ч",
     "categories": ["Аккумуляторные"],
     "imageUrl": "https://avatars.mds.yandex.net/get-marketpic/1886551/picb9ed2e61955bbfb2c178c8bcc91208f2/orig",
-    "price": 149990,
     "editedAt": 1812345678
   },
   {
